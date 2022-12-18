@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/socon01/static/css/main.745326f4.css",
+    "main.js": "/socon01/static/js/main.1d46600c.js",
+    "index.html": "/socon01/index.html",
+    "main.745326f4.css.map": "/socon01/static/css/main.745326f4.css.map",
+    "main.1d46600c.js.map": "/socon01/static/js/main.1d46600c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745326f4.css",
+    "static/js/main.1d46600c.js"
+  ]
+}
